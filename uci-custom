@@ -2,10 +2,10 @@
 # Uncomment lines to apply:
 #
 # wlan_name="ImmortalWrt"
-# wlan_password="12345678"
+# wlan_password="password"
 #
-# root_password=""
-# lan_ip_address="192.168.123.1"
+root_password="password"
+lan_ip_address="192.168.5.188"
 #
 # pppoe_username="123"
 # pppoe_password="456"
